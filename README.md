@@ -10,3 +10,5 @@ Model building
 4.Train model: fit the model on the training data using TF-IDF transformed features and corresponding labels (real or fake).
 5.Evaluate model:Once the model is trained evaluate its performance using testing data. Calculate metrics such as accuracy, precision to identify how well model can differentiate between fake and real news
 
+
+![Alt text](fakenewsoutput.png "Optional title")
