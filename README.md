@@ -11,4 +11,4 @@ Model building
 5.Evaluate model:Once the model is trained evaluate its performance using testing data. Calculate metrics such as accuracy, precision to identify how well model can differentiate between fake and real news
 
 
-![Alt text](fakenewsoutput.png "Optional title")
+
